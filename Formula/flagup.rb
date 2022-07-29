@@ -5,7 +5,7 @@ class Flagup < Formula
     desc "Cross-platform flag finder written in Rust"
     homepage "https://github.com/cthogg"
     url "https://github.com/cthogg/flagup/releases/latest/download/flagup-mac.tar.gz"
-    sha256 "2473866b99eef9ea983200b7aac91592b938404ffaa1fb8c72beacb2ebd3203a"
+    sha256 "27a9dc951af99ced7de799eb7113c471770c8124c4b26864ea43fabdb785313d"
     version "0.0.1"
   
     def install
