@@ -9,7 +9,7 @@ class Flagup < Formula
     version "0.0.5" # This should also change at every release.
   
     def install
-      bin.install "flagup"
+      bin.install "flagup-cli"
     end
   end
   
